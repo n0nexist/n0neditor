@@ -1,0 +1,1 @@
+gcc n0.c -lncurses -o n0
