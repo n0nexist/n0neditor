@@ -1,5 +1,5 @@
 # 📝 n0neditor
-![alt-text](https://github.com/n0nexist/n0neditor/blob/main/screenshot.png?raw=true)
+![alt-text](https://github.com/n0nexist/n0neditor/blob/main/screenshot.png?raw=true)<br>
 <b><i>simple</i> C file manager with ncurses</b>
 
 # Installation
